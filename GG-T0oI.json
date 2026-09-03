@@ -1,9 +1,9 @@
 [
   {
   "visibility": "INVISIBLE",
- "upgrade_skin_enabled": true,
+ "upgrade_skin_enabled": false,
   "min_version": "1.5",
-  "app_name": "GG TOOLS",
+  "app_name": "GS TOOLS",
   "dialog_title": "App under maintenance. Meanwhile, please use IQ Tools. Click update",
   "dialog_message": "aplikasi dalam perbaikan, sementara gunakan aplikasi IQ Tools. klik update",
   "button_update": "Update",
