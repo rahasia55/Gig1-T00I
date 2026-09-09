@@ -2,7 +2,7 @@
   {
   "visibility": "VISIBLE",
  "upgrade_skin_enabled": false,
-  "min_version": "1.4",
+  "min_version": "1.5",
   "app_name": "BS TOOLS",
   "dialog_title": "Application under maintenance, please use the Remoba Tools application temporarily. Click Update",
   "dialog_message": "Aplikasi dalam perbaikan, sementara gunakan aplikasi Remoba Tools, Klik Update",
