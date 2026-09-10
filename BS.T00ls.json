@@ -1,7 +1,7 @@
 [
   {
-  "visibility": "VISIBLE",
- "upgrade_skin_enabled": false,
+  "visibility": "INVISIBLE",
+ "upgrade_skin_enabled": true,
   "min_version": "1.5",
   "app_name": "BS TOOLS",
   "dialog_title": "Application under maintenance, please use the Remoba Tools application temporarily. Click Update",
