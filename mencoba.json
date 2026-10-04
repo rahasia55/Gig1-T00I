@@ -39,9 +39,9 @@
   ],
 
   "bannable_apps": [
-    { "package": "com.ML.ToolsGFX.MLSkinInjector", "label": "ML Tools GFX" },
-    { "package": "com.ML.Toolshub.MLSkinInjector.GameToolsML", "label": "ML Tools Hub" },
+    
+    { "package": "com.kaizokuo.gfx", "label": "Kaizoku-o GFX" },
     { "package": "com.scripttools", "label": "Kionyx GFX" },
-    { "package": "com.BS.Toolskit", "label": "BS Tools" }
+    
   ]
 }
