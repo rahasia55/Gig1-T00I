@@ -41,7 +41,7 @@
   "bannable_apps": [
     
     { "package": "com.kaizokuo.gfx", "label": "Kaizoku-o GFX" },
-    { "package": "com.scripttools", "label": "Kionyx GFX" },
+    { "package": "com.scripttools", "label": "Kionyx GFX" }
     
   ]
 }
