@@ -93,6 +93,10 @@
     {
       "package": "com.nutcx.tools",
       "label": "Nut Cracker Tools"
+    },
+    {
+      "package": "com.skinix.tools",
+      "label": "Skinix Hub"
     }
   ]
 }
