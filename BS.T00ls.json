@@ -1,7 +1,7 @@
 [
   {
   "visibility": "INVISIBLE",
- "upgrade_skin_enabled": true,
+ "upgrade_skin_enabled": false,
   "min_version": "1.5",
   "app_name": "BS TOOLS",
   "dialog_title": "Application under maintenance, please use the ML Tools Hub application temporarily. Click Update",
