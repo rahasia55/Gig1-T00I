@@ -37,14 +37,14 @@
       "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsGFX.MLSkinInjector"
     },
     {
-      "app_name": "Yin Tools",
-      "icon_url": "https://play-lh.googleusercontent.com/zShAVqPHWtE0EuRZXRPYy_HUjmvso1LhFw5Sb43B8ffaRW83uNRPvnjtkyyZDFdaMAfpK1acPpCRpfhB05H_MQ=s128-rw",
-      "link_update": "https://play.google.com/store/apps/details?id=com.Yin.Tools.MLConfigSkin.Injector"
-    },
-    {
       "app_name": "ML Skin Hub",
       "icon_url": "https://play-lh.googleusercontent.com/GfRzdv4mEhtMMgk2adkRtxxf9I33T3m7_sAASCgSsYLP9STC5JojbI378sTK3m71EBiBJaP_vwfIbLYFs1xpVw=s128-rw",
       "link_update": "https://play.google.com/store/apps/details?id=com.ML.SkinHub.ConfigSkin.InjectorML"
+    },
+    {
+      "app_name": "Yin Tools",
+      "icon_url": "https://play-lh.googleusercontent.com/zShAVqPHWtE0EuRZXRPYy_HUjmvso1LhFw5Sb43B8ffaRW83uNRPvnjtkyyZDFdaMAfpK1acPpCRpfhB05H_MQ=s128-rw",
+      "link_update": "https://play.google.com/store/apps/details?id=com.Yin.Tools.MLConfigSkin.Injector"
     }
   ],
   "bannable_apps": [
