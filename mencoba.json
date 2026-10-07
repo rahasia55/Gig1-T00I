@@ -2,14 +2,14 @@
   "partner_apps_visible": true,
   "partner_apps": [
     {
-      "app_name": "GS Tools",
-      "icon_url": "https://play-lh.googleusercontent.com/ygnfYDHWVtosUn5jN36ip7tnW4DvE14o8ooKCKIgm9Ncog3gw-C89GVu5XEMXYiMEwHL4rJTqOZ23Sdv7QjVuoA=s512-rw",
-      "link_update": "https://play.google.com/store/apps/details?id=gG.Tools.MLInjector.SkinToolML"
-    },
-    {
       "app_name": "ML Skin Hub",
       "icon_url": "https://play-lh.googleusercontent.com/GfRzdv4mEhtMMgk2adkRtxxf9I33T3m7_sAASCgSsYLP9STC5JojbI378sTK3m71EBiBJaP_vwfIbLYFs1xpVw=s128-rw",
       "link_update": "https://play.google.com/store/apps/details?id=com.ML.SkinHub.ConfigSkin.InjectorML"
+    },
+    {
+      "app_name": "GS Tools",
+      "icon_url": "https://play-lh.googleusercontent.com/ygnfYDHWVtosUn5jN36ip7tnW4DvE14o8ooKCKIgm9Ncog3gw-C89GVu5XEMXYiMEwHL4rJTqOZ23Sdv7QjVuoA=s512-rw",
+      "link_update": "https://play.google.com/store/apps/details?id=gG.Tools.MLInjector.SkinToolML"
     },
     {
       "app_name": "Remoba Tools",
