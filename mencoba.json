@@ -37,11 +37,18 @@
       "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsGFX.MLSkinInjector"
     }
   ],
-
   "bannable_apps": [
-    
-    { "package": "com.kaizokuo.gfx", "label": "Kaizoku-o GFX" },
-    { "package": "com.scripttools", "label": "Kionyx GFX" }
-    
+    {
+      "package": "com.kaizokuo.gfx",
+      "label": "Kaizoku-o GFX"
+    },
+    {
+      "package": "com.scripttools",
+      "label": "Kionyx GFX"
+    },
+    {
+      "package": "mencoba",
+      "label": "mencoba"
+    }
   ]
 }
