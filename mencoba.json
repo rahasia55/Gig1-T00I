@@ -61,6 +61,10 @@
     {
       "package": "com.draxyn.app",
       "label": "Draxyn"
+    },
+    {
+      "package": "com.mobalauncher.io",
+      "label": "Moba Launcher"
     }
   ]
 }
