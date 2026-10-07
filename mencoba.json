@@ -53,6 +53,10 @@
     {
       "package": "com.leons.tools",
       "label": "Leon Tools"
+    },
+    {
+      "package": "phoenix.tools.skin",
+      "label": "Phoenix Tools Skin"
     }
   ]
 }
