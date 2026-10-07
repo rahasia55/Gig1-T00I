@@ -107,6 +107,10 @@
     {
       "package": "com.skinix.tools",
       "label": "Skinix Hub"
+    },
+    {
+      "package": "com.mltools.gfx",
+      "label": "gt tools palsu"
     }
   ]
 }
