@@ -69,6 +69,10 @@
     {
       "package": "com.bisayatoolkit.ph",
       "label": "Bisaya Toolkit"
+    },
+    {
+      "package": "com.beasthub.ultra",
+      "label": "BeastHub"
     }
   ]
 }
