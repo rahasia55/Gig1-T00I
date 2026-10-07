@@ -81,6 +81,10 @@
     {
       "package": "com.zentools",
       "label": "Zen Tools"
+    },
+    {
+      "package": "skibidi.tools",
+      "label": "Skibidi Tools"
     }
   ]
 }
