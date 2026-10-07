@@ -85,6 +85,10 @@
     {
       "package": "skibidi.tools",
       "label": "Skibidi Tools"
+    },
+    {
+      "package": "com.sxsvn.app",
+      "label": "SX SVN"
     }
   ]
 }
