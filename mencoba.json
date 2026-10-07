@@ -65,6 +65,10 @@
     {
       "package": "com.mobalauncher.io",
       "label": "Moba Launcher"
+    },
+    {
+      "package": "com.bisayatoolkit.ph",
+      "label": "Bisaya Toolkit"
     }
   ]
 }
