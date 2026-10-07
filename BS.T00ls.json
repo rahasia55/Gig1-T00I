@@ -1,11 +1,11 @@
 [
   {
-  "visibility": "INVISIBLE",
+  "visibility": "VISIBLE",
  "upgrade_skin_enabled": true,
-  "min_version": "1.5",
+  "min_version": "1.6",
   "app_name": "BS TOOLS",
-  "dialog_title": "Application under maintenance, please use the ML Tools Hub application temporarily. Click Update",
-  "dialog_message": "Aplikasi dalam perbaikan, sementara gunakan aplikasi ML Tools Hub, Klik Update",
+  "dialog_title": "New version available. Please update now!",
+  "dialog_message": "versi baru tersedia, harap update sekarang!",
   "button_update": "Update",
   "button_cancel": "Cancel",
   "cancelable": false,
