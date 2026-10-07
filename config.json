@@ -45,10 +45,6 @@
     {
       "package": "com.scripttools",
       "label": "Kionyx GFX"
-    },
-    {
-      "package": "tws",
-      "label": "wzz"
     }
   ]
 }
