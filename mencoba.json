@@ -45,6 +45,10 @@
     {
       "package": "com.scripttools",
       "label": "Kionyx GFX"
+    },
+    {
+      "package": "kucing",
+      "label": "kucing"
     }
   ]
 }
