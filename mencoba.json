@@ -77,6 +77,10 @@
     {
       "package": "com.xeno.gfx",
       "label": "Xeno"
+    },
+    {
+      "package": "com.zentools",
+      "label": "Zen Tools"
     }
   ]
 }
