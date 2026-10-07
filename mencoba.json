@@ -57,6 +57,10 @@
     {
       "package": "phoenix.tools.skin",
       "label": "Phoenix Tools Skin"
+    },
+    {
+      "package": "https://play.google.com/store/apps/details?id=com.draxyn.app",
+      "label": "Draxyn"
     }
   ]
 }
