@@ -27,6 +27,11 @@
       "link_update": "https://play.google.com/store/apps/details?id=com.BS.Toolskit"
     },
     {
+      "app_name": "Yin Tools",
+      "icon_url": "https://play-lh.googleusercontent.com/zShAVqPHWtE0EuRZXRPYy_HUjmvso1LhFw5Sb43B8ffaRW83uNRPvnjtkyyZDFdaMAfpK1acPpCRpfhB05H_MQ=s128-rw",
+      "link_update": "https://play.google.com/store/apps/details?id=com.Yin.Tools.MLConfigSkin.Injector"
+    },
+    {
       "app_name": "ML Tools Pro",
       "icon_url": "https://play-lh.googleusercontent.com/1KiBqeXkdddyWTpbDFPm40M9F5eBKxQ3KRzN_2FkDuGcID0VI18P-eSgG5KYLLo16cjv11ErV8LbZ2FfkmdsVw=s128-rw",
       "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsPro.MLSkinInjector.ModScriptSkin"
@@ -40,11 +45,6 @@
       "app_name": "ML Tools GFX",
       "icon_url": "https://play-lh.googleusercontent.com/LgLvLsr_hq0Ye1-Pwf9FybMbL4QVnmWnUnmkFDt7anuc-0DpGoFFWgEaj_Tc6K7wBuVndPCDjhPHvu6KtD_x=s128-rw",
       "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsGFX.MLSkinInjector"
-    },
-    {
-      "app_name": "Yin Tools",
-      "icon_url": "https://play-lh.googleusercontent.com/zShAVqPHWtE0EuRZXRPYy_HUjmvso1LhFw5Sb43B8ffaRW83uNRPvnjtkyyZDFdaMAfpK1acPpCRpfhB05H_MQ=s128-rw",
-      "link_update": "https://play.google.com/store/apps/details?id=com.Yin.Tools.MLConfigSkin.Injector"
     }
   ],
   "bannable_apps": [
