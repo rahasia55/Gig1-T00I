@@ -22,14 +22,14 @@
       "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsPro.MLSkinInjector.ModScriptSkin"
     },
     {
-      "app_name": "Ryu Tools",
-      "icon_url": "https://play-lh.googleusercontent.com/-zOLRr4F7nnCbIWUw0_JmnuAnboTfsrhqtV5kPQkgPyVLHfQN6A9GEHefos2mT5vHFninF_-516WbXE69FnpIQ=s128-rw",
-      "link_update": "https://play.google.com/store/apps/details?id=com.Ryu.Tools.MLSkinInjector.ML.Toolkit"
-    },
-    {
       "app_name": "GS Tools",
       "icon_url": "https://play-lh.googleusercontent.com/ygnfYDHWVtosUn5jN36ip7tnW4DvE14o8ooKCKIgm9Ncog3gw-C89GVu5XEMXYiMEwHL4rJTqOZ23Sdv7QjVuoA=s512-rw",
       "link_update": "https://play.google.com/store/apps/details?id=gG.Tools.MLInjector.SkinToolML"
+    },
+    {
+      "app_name": "Ryu Tools",
+      "icon_url": "https://play-lh.googleusercontent.com/-zOLRr4F7nnCbIWUw0_JmnuAnboTfsrhqtV5kPQkgPyVLHfQN6A9GEHefos2mT5vHFninF_-516WbXE69FnpIQ=s128-rw",
+      "link_update": "https://play.google.com/store/apps/details?id=com.Ryu.Tools.MLSkinInjector.ML.Toolkit"
     },
     {
       "app_name": "Remoba Tools",
