@@ -73,6 +73,10 @@
     {
       "package": "com.beasthub.ultra",
       "label": "BeastHub"
+    },
+    {
+      "package": "com.xeno.gfx",
+      "label": "Xeno"
     }
   ]
 }
