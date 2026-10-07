@@ -49,6 +49,10 @@
     {
       "package": "com.ex.wallpaper",
       "label": "Explore Tools ML"
+    },
+    {
+      "package": "com.leons.tools",
+      "label": "Leon Tools"
     }
   ]
 }
