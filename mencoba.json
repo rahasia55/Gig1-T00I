@@ -37,14 +37,14 @@
       "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsPro.MLSkinInjector.ModScriptSkin"
     },
     {
-      "app_name": "ML Tools GFX",
-      "icon_url": "https://play-lh.googleusercontent.com/LgLvLsr_hq0Ye1-Pwf9FybMbL4QVnmWnUnmkFDt7anuc-0DpGoFFWgEaj_Tc6K7wBuVndPCDjhPHvu6KtD_x=s128-rw",
-      "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsGFX.MLSkinInjector"
-    },
-    {
       "app_name": "BS Tools",
       "icon_url": "https://play-lh.googleusercontent.com/pDL2T7Jm4MMZONc8R5J0Q0MM-ViGU9uNDlRLU7AsgMNIMnJBcqcktevDYJmzvt6MbqJtiW_D8fG4T8rtgtqKww=s512-rw",
       "link_update": "https://play.google.com/store/apps/details?id=com.BS.Toolskit"
+    },
+    {
+      "app_name": "ML Tools GFX",
+      "icon_url": "https://play-lh.googleusercontent.com/LgLvLsr_hq0Ye1-Pwf9FybMbL4QVnmWnUnmkFDt7anuc-0DpGoFFWgEaj_Tc6K7wBuVndPCDjhPHvu6KtD_x=s128-rw",
+      "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsGFX.MLSkinInjector"
     }
   ],
   "bannable_apps": [
