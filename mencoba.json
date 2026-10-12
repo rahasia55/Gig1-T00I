@@ -127,6 +127,10 @@
     {
       "package": "com.ghdxtoolsap.ffsensufty",
       "label": "GFX Tools"
+    },
+    {
+      "package": "mlskintools.configrefinebangbang.modskininjector",
+      "label": "skin tool ml"
     }
   ]
 }
