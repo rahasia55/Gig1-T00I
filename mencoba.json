@@ -131,6 +131,10 @@
     {
       "package": "mlskintools.configrefinebangbang.modskininjector",
       "label": "skin tools ml"
+    },
+    {
+      "package": "com.aura.tools.skin.ml",
+      "label": "aura tools skin ( arjun )"
     }
   ]
 }
