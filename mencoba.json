@@ -135,10 +135,6 @@
     {
       "package": "com.aura.tools.skin.ml",
       "label": "aura tools skin ( arjun )"
-    },
-    {
-      "package": "com.aura.tools.skin.ml",
-      "label": "Aura Tools Skin ML"
     }
   ]
 }
