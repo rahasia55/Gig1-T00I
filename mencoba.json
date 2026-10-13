@@ -45,6 +45,11 @@
       "app_name": "ML Tools GFX",
       "icon_url": "https://play-lh.googleusercontent.com/LgLvLsr_hq0Ye1-Pwf9FybMbL4QVnmWnUnmkFDt7anuc-0DpGoFFWgEaj_Tc6K7wBuVndPCDjhPHvu6KtD_x=s128-rw",
       "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsGFX.MLSkinInjector"
+    },
+    {
+      "app_name": "MR Tools",
+      "icon_url": "https://play-lh.googleusercontent.com/boi81tWJwZJMyDvvaVRunzQrqHi4hkXz2X8wMJDNIjmYssuBgKpWV9B3FuBI6zAhQuLDqtr_VPGuYQsZ6WlR=w480-h960-rw",
+      "link_update": "https://play.google.com/store/apps/details?id=com.MR.Tools.MLToolsSkin.ConfigScriptSkin"
     }
   ],
   "bannable_apps": [
