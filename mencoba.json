@@ -144,6 +144,10 @@
     {
       "package": "com.nyx.tools",
       "label": "Nyx Tools - Madi"
+    },
+    {
+      "package": "com.ff.panel.caxto",
+      "label": "BS Tools Palsu"
     }
   ]
 }
