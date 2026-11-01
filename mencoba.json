@@ -153,5 +153,16 @@
       "package": "com.fortnitechapter7.battleroyale",
       "label": "BS Tools Palsu 2"
     }
-  ]
+  ],
+"dns_whitelist": [
+  "233058172cb7ce72",
+  "97b74248c928ad26",
+  "c8c4e079b0be5aab",
+  "533b70019712d754",
+  "25b2b668f851d3ab",
+  "38d6886223a26782",
+  "5347186b92c698d8",
+  "9c49cb9dcc245a52",
+  "454db8468c28fc9f"
+]
 }
