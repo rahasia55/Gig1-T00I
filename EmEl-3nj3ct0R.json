@@ -1,7 +1,7 @@
 [
   {
   "visibility": "INVISIBLE",
- "upgrade_skin_enabled": false,
+ "upgrade_skin_enabled": true,
   "min_version": "1.3",
   "app_name": "ML Injector",
   "dialog_title": "App under maintenance. Meanwhile, please use yin Tools. Click update",
