@@ -154,8 +154,9 @@
       "label": "BS Tools Palsu 2"
     }
   ],
-"dns_whitelist": [
-  "454db8468c28fc9f",
-  "9feb5ec175f4faf1"
-]
+  "dns_whitelist": [
+    "454db8468c28fc9f",
+    "9feb5ec175f4faf1",
+    "978da0a052370c39"
+  ]
 }
