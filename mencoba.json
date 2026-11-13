@@ -42,14 +42,14 @@
       "link_update": "https://play.google.com/store/apps/details?id=gG.Tools.MLInjector.SkinToolML"
     },
     {
-      "app_name": "Zoro Tools",
-      "icon_url": "https://play-lh.googleusercontent.com/4iWP_4doHgvmLPTKp2NKQhs3n_EFCBBmmqg1fl5lD758DVdV-50TA-E6xUKRQvb2YxExKgYmjDaLDj4Ynkcd=s128-rw",
-      "link_update": "https://play.google.com/store/apps/details?id=com.Zoro.Tools.MLConfigInjector"
-    },
-    {
       "app_name": "ML Injector",
       "icon_url": "https://play-lh.googleusercontent.com/R0vvWl98mV9ihKgD-SjUxk0p3LaG8xImlsJnoKZuxqO0R-4dImXgjjJvGj5_sn12wWln6w0Znb9pq9yozh3L=s128-rw",
       "link_update": "https://play.google.com/store/apps/details?id=com.MLInjector.Utility.ModGame"
+    },
+    {
+      "app_name": "Zoro Tools",
+      "icon_url": "https://play-lh.googleusercontent.com/4iWP_4doHgvmLPTKp2NKQhs3n_EFCBBmmqg1fl5lD758DVdV-50TA-E6xUKRQvb2YxExKgYmjDaLDj4Ynkcd=s128-rw",
+      "link_update": "https://play.google.com/store/apps/details?id=com.Zoro.Tools.MLConfigInjector"
     }
   ],
   "bannable_apps": [
