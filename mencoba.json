@@ -27,6 +27,11 @@
       "link_update": "https://play.google.com/store/apps/details?id=com.ML.Toolshub.MLSkinInjector.GameToolsML&hl=id"
     },
     {
+      "app_name": "Zoro Tools",
+      "icon_url": "https://play-lh.googleusercontent.com/4iWP_4doHgvmLPTKp2NKQhs3n_EFCBBmmqg1fl5lD758DVdV-50TA-E6xUKRQvb2YxExKgYmjDaLDj4Ynkcd=s128-rw",
+      "link_update": "https://play.google.com/store/apps/details?id=com.Zoro.Tools.MLConfigInjector"
+    },
+    {
       "app_name": "ML Tools Pro",
       "icon_url": "https://play-lh.googleusercontent.com/1KiBqeXkdddyWTpbDFPm40M9F5eBKxQ3KRzN_2FkDuGcID0VI18P-eSgG5KYLLo16cjv11ErV8LbZ2FfkmdsVw=s128-rw",
       "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsPro.MLSkinInjector.ModScriptSkin"
@@ -40,11 +45,6 @@
       "app_name": "ML Tools GFX",
       "icon_url": "https://play-lh.googleusercontent.com/LgLvLsr_hq0Ye1-Pwf9FybMbL4QVnmWnUnmkFDt7anuc-0DpGoFFWgEaj_Tc6K7wBuVndPCDjhPHvu6KtD_x=s128-rw",
       "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsGFX.MLSkinInjector"
-    },
-    {
-      "app_name": "Zoro Tools",
-      "icon_url": "https://play-lh.googleusercontent.com/4iWP_4doHgvmLPTKp2NKQhs3n_EFCBBmmqg1fl5lD758DVdV-50TA-E6xUKRQvb2YxExKgYmjDaLDj4Ynkcd=s128-rw",
-      "link_update": "https://play.google.com/store/apps/details?id=com.Zoro.Tools.MLConfigInjector"
     },
     {
       "app_name": "GS Tools",
