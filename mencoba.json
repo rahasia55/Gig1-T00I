@@ -156,6 +156,10 @@
     {
       "package": "com.escanor.toolkit.ph",
       "label": "Escanor Toolkit"
+    },
+    {
+      "package": "com/store/apps/details?id=com.hex.gfx",
+      "label": "Hex GFX"
     }
   ],
   "dns_whitelist": [
