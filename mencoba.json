@@ -164,6 +164,10 @@
     {
       "package": "com/store/apps/details?id=aether.fx",
       "label": "AETHER FX"
+    },
+    {
+      "package": "com/store/apps/details?id=com.zentools",
+      "label": "Zen Tools"
     }
   ],
   "dns_whitelist": [
