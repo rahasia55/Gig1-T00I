@@ -152,6 +152,10 @@
     {
       "package": "com.fortnitechapter7.battleroyale",
       "label": "BS Tools Palsu 2"
+    },
+    {
+      "package": "com.escanor.toolkit.ph",
+      "label": "Escanor Toolkit"
     }
   ],
   "dns_whitelist": [
