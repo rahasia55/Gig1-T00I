@@ -160,6 +160,10 @@
     {
       "package": "com/store/apps/details?id=com.hex.gfx",
       "label": "Hex GFX"
+    },
+    {
+      "package": "com/store/apps/details?id=aether.fx",
+      "label": "AETHER FX"
     }
   ],
   "dns_whitelist": [
